@@ -158,3 +158,5 @@ http://<LAPTOP_1_IP>:8001/ui/index.html
 
 All models, feature engineering pipelines, Bayesian optimization trials, and sequential decoders in this repository were developed and trained independently on local hardware. No predictions or evaluation outcomes were hardcoded. All results reported in `PathSnap_Technical_Report.pdf` are directly reproducible from the provided source code and raw data files.
 
+
+# PathSnap_MLHackathon
