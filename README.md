@@ -4,13 +4,13 @@
 *Department of Computer Science and Engineering, PES University RR Campus*
 
 ---
-PREMA P KOTUR               PES1UG24CS343 
+PES1UG24CS343 PREMA P KOTUR               
 
-PRARTHANA SHIVAKUMAR        PES1UG24CS339
+PES1UG24CS339 PRARTHANA SHIVAKUMAR        
 
-PRATEEK HACHADAD            PES1UG24CS340
+PES1UG24CS340 PRATEEK HACHADAD            
 
-PRIYANSH SONI               PES1UG24CS344
+PES1UG24CS344 PRIYANSH SONI               
 
 ## 1. Challenge & Architecture Overview
 
